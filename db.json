@@ -1,0 +1,145 @@
+{
+  "Products": [
+    {
+      "name": "Laptop",
+      "slug": "laptop",
+      "regular_price": 30000,
+      "sale_price": "28000",
+      "rating": "5",
+      "CatagoryId": "8",
+      "tagId": "8",
+      "pro_link": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wJTIwY29tcHV0ZXJ8ZW58MHx8MHx8&w=1000&q=80",
+      "short_dis": "MSI Summit E14 A11SCS Core i7 11th Gen GTX1650 Ti Max-Q 4GB Graphics",
+      "id": 2
+    },
+    {
+      "name": "I-Phone",
+      "slug": "i-Phone",
+      "regular_price": 100000,
+      "sale_price": "95000",
+      "rating": "5",
+      "CatagoryId": "4",
+      "tagId": "10",
+      "pro_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkS-ohmL7OeQOQAqa54yyDZaXDWHqFJAae4oLIz5P7&s",
+      "short_dis": "কার যদি আমার মত ফালতু খরচ করার অভ্যাস থাকে। তো কিনতে পারেন। প্রডাক্ট ঠিক আছে, খারাপ না। আবার 445 টাকা দিয়ে এমন প্রডাক্ট, বেশি ভালোও না।",
+      "id": 3
+    },
+    {
+      "name": "T-Shirt",
+      "slug": "t-shirt",
+      "regular_price": 350,
+      "sale_price": "250",
+      "rating": "4",
+      "CatagoryId": "9",
+      "tagId": "4",
+      "pro_link": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dCUyMHNoaXJ0fGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "short_dis": "In between the two worlds of fast-fashion and premium lifestyle, Manfare has become the prologue of a successful brand. Since its inception in 2017, Manfare has become truly a renowned trendsetter. Catering to millions, the Manfare team has worked tirelessly to meet the demand of the youths, ensuring affordability, comfort, and quality. ",
+      "id": 4
+    },
+    {
+      "name": "Kurite",
+      "slug": "kurite",
+      "regular_price": "",
+      "sale_price": 500,
+      "rating": "3",
+      "CatagoryId": "1",
+      "tagId": "6",
+      "pro_link": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2147883/2017/11/7/11510046595699-Jaipur-Kurti-Women-Navy-Blue-Printed-Kurta-with-Trousers-8001510046595392-1.jpg",
+      "short_dis": "এই দিয়ে ৫বার অর্ডার করলাম ম্যানফেয়ার শপে।",
+      "id": 5
+    },
+    {
+      "name": "Royal Enfield",
+      "slug": "royal-enfield",
+      "regular_price": "",
+      "sale_price": 1200,
+      "rating": "5",
+      "CatagoryId": "1",
+      "tagId": "6",
+      "pro_link": "https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/classic-350/landing/classic-350-motorcycle.jpg",
+      "short_dis": "This is Best Motorchycle in the world, It since for Indian Maletry and it use wordwide pople",
+      "id": 6
+    },
+    {
+      "name": "Washing Machine",
+      "slug": "washing-machine",
+      "regular_price": 6000,
+      "sale_price": 5000,
+      "rating": "4",
+      "CatagoryId": "4",
+      "tagId": "7",
+      "pro_link": "https://media.istockphoto.com/photos/laundry-room-with-a-washing-machine-picture-id1134696908?b=1&k=20&m=1134696908&s=170667a&w=0&h=ckGWVYSMY7FrOhkthYibyl1ktP9RkCZ-zR9sxH5GQ18=",
+      "short_dis": "It very comfortable product. It easily using  every person",
+      "id": 7
+    }
+  ],
+  "catagory": [
+    {
+      "id": 1,
+      "name": "Fasion pro",
+      "slug": "fasion-pro"
+    },
+    {
+      "id": 4,
+      "name": "Electricty",
+      "slug": "electricty"
+    },
+    {
+      "id": 5,
+      "name": "Youga accascories",
+      "slug": "youga-accascories"
+    },
+    {
+      "id": 7,
+      "name": "Mobile",
+      "slug": "mobile"
+    },
+    {
+      "id": 8,
+      "name": "Laptop",
+      "slug": "laptop"
+    },
+    {
+      "id": 9,
+      "name": "T-Shirt",
+      "slug": "t-shirt"
+    },
+    {
+      "id": 10,
+      "name": "Feroza",
+      "slug": "feroza"
+    }
+  ],
+  "tag": [
+    {
+      "id": 4,
+      "name": "jens",
+      "slug": "jens"
+    },
+    {
+      "id": 6,
+      "name": "Women janse",
+      "slug": "women-janse"
+    },
+    {
+      "id": 7,
+      "name": "Iron",
+      "slug": "iron"
+    },
+    {
+      "id": 8,
+      "name": "Elactrical bike",
+      "slug": "elactrical-bike"
+    },
+    {
+      "id": 9,
+      "name": "kids items",
+      "slug": "kids-items"
+    },
+    {
+      "id": 10,
+      "name": "Mobile phone",
+      "slug": "mobile-phone"
+    }
+  ]
+}
